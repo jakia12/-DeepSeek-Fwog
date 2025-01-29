@@ -193,7 +193,7 @@ button {
 }
 
 .text-purple {
-  color: #874f95;
+  color: #00b9ec;
 }
 
 .text-blue {
@@ -201,7 +201,7 @@ button {
 }
 
 .text-green {
-  color: #5ac266;
+  color: #50b6fe;
 }
 
 .header {
@@ -376,7 +376,7 @@ button {
     #10161a -0.137119px -2.99686px 0px, #10161a 0.850987px -2.87677px 0px,
     #10161a 1.74541px -2.43999px 0px, #10161a 2.44769px -1.73459px 0px,
     #10161a 2.88051px -0.838247px 0px, #10161a 2px 5px 0px;
-  color: #fafa00;
+  color: #00b9ec;
   font-size: 100px;
   line-height: 90%;
   margin: 20px 0;
@@ -386,7 +386,6 @@ button {
   display: inline-block;
   color: #10161a;
   padding: 8px 31px 21px 31px;
-  background: #fafa00;
   border: 6px solid #10161a;
   box-shadow: 2px 5px 0px #10161a;
   border-radius: 16px;
@@ -394,6 +393,7 @@ button {
   font-size: 150px;
   line-height: 70%;
   margin-top: 8px;
+  background: #00b9ec;
 }
 
 @media screen and (max-width: 1440px) {
