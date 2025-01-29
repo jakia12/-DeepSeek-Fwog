@@ -579,15 +579,14 @@ button {
   font-size: 24px;
   color: #000;
   padding: 8px 16px;
-  background: #ffff33;
+  background: #00b9ec;
   border: 2px solid #000;
   border-radius: 111px;
   transform: rotate(-3deg);
 }
-
 .tokenomics__title {
   font-size: 100px;
-  color: #ffff33;
+  color: #000;
   margin: 24px 0;
 }
 
