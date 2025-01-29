@@ -962,7 +962,7 @@ button {
 }
 
 .community__illustration2 {
-  max-width: 60%;
+  max-width: 47%;
   margin-right: -7vw;
   animation: community-illustration 2s ease-in-out infinite alternate;
 }
@@ -1153,9 +1153,8 @@ button {
     text-align: center;
   }
 }
-
 .community__illustration {
-  max-width: 60%;
+  max-width: 47%;
   margin-right: -7vw;
   animation: community-illustration 2s ease-in-out infinite alternate;
 }
